@@ -19,7 +19,9 @@ This is a simple banking system developed using Python and Object-Oriented Progr
 - Transaction management logic
 
 ## 📷 Output Example
-(Add screenshot later if possible)
+screenshot(115).png -code_part_1
+screenshot(116).png -code_part_2
+screenshot(117).png -output
 
 ## 🔗 GitHub Repository
 https://github.com/manishamanavalan2006-cpu/banking-system-python
